@@ -1,0 +1,2312 @@
+{
+  "matched_by_ch": {
+    "1": [
+      {
+        "label": "1.2.1",
+        "a_page": 1,
+        "a_top_pct": 36.206,
+        "q_page": 5,
+        "q_top_pct": 60.438,
+        "a_text": "1.2.1 We subtract 35 from",
+        "q_text": "1.2.1 How many numbers ;"
+      },
+      {
+        "label": "1.2.2",
+        "a_page": 1,
+        "a_top_pct": 42.084,
+        "q_page": 5,
+        "q_top_pct": 68.1,
+        "a_text": "1.2.2 Dividing each",
+        "q_text": "1.2.2 How many numbers"
+      },
+      {
+        "label": "1.2.3",
+        "a_page": 1,
+        "a_top_pct": 46.493,
+        "q_page": 5,
+        "q_top_pct": 75.762,
+        "a_text": "12.3 Add3toeachmemb",
+        "q_text": "1.2.3 How many numbers,"
+      },
+      {
+        "label": "1.2.4",
+        "a_page": 1,
+        "a_top_pct": 52.639,
+        "q_page": 5,
+        "q_top_pct": 85.066,
+        "a_text": "12.4 First, we reverse the",
+        "q_text": "1.2.4 How many numbers ;"
+      },
+      {
+        "label": "1.2.5",
+        "a_page": 1,
+        "a_top_pct": 56.981,
+        "q_page": 6,
+        "q_top_pct": 6.88,
+        "a_text": "12.5 Multiplying each m",
+        "q_text": "1.2.5 How many"
+      },
+      {
+        "label": "1.2.6",
+        "a_page": 1,
+        "a_top_pct": 61.79,
+        "q_page": 6,
+        "q_top_pct": 17.826,
+        "a_text": "126 7x21=147 <",
+        "q_text": "12.6 How many positive r"
+      },
+      {
+        "label": "1.2.8",
+        "a_page": 1,
+        "a_top_pct": 68.671,
+        "q_page": 6,
+        "q_top_pct": 23.534,
+        "a_text": "128 Since 1? <5 < 3 ar",
+        "q_text": "1.2.8 How many odd perfe"
+      },
+      {
+        "label": "1.2.9",
+        "a_page": 1,
+        "a_top_pct": 72.946,
+        "q_page": 6,
+        "q_top_pct": 26.427,
+        "a_text": "1.2.9 Note that 174 = 83,5;",
+        "q_text": "1.2.9% How many sets of fc"
+      },
+      {
+        "label": "1.3.1",
+        "a_page": 2,
+        "a_top_pct": 14.162,
+        "q_page": 12,
+        "q_top_pct": 40.813,
+        "a_text": "1.3.1 Let the number of",
+        "q_text": "1.3.1 There are 20 cars in m"
+      },
+      {
+        "label": "1.3.4",
+        "a_page": 2,
+        "a_top_pct": 44.489,
+        "q_page": 12,
+        "q_top_pct": 58.952,
+        "a_text": "134 Wedraw a Venn",
+        "q_text": "13.4% At the Gooddog Ob"
+      },
+      {
+        "label": "1.4.1",
+        "a_page": 2,
+        "a_top_pct": 82.632,
+        "q_page": 18,
+        "q_top_pct": 92.025,
+        "a_text": "141 There are 6 choices",
+        "q_text": "1.4.1 Suppose I have 6 shir'"
+      },
+      {
+        "label": "1.4.2",
+        "a_page": 2,
+        "a_top_pct": 85.571,
+        "q_page": 19,
+        "q_top_pct": 6.802,
+        "a_text": "1.42 There are 8 option",
+        "q_text": "14.2 For each of 8 colors, 11"
+      },
+      {
+        "label": "1.4.3",
+        "a_page": 3,
+        "a_top_pct": 10.354,
+        "q_page": 19,
+        "q_top_pct": 11.65,
+        "a_text": "1.4.3 There are 26 choices 0",
+        "q_text": "1.4.3 How many license plz"
+      },
+      {
+        "label": "1.4.4",
+        "a_page": 3,
+        "a_top_pct": 14.83,
+        "q_page": 19,
+        "q_top_pct": 14.543,
+        "a_text": "14.4 There are 26 choices 0",
+        "q_text": "14.4 How many license pla"
+      },
+      {
+        "label": "1.4.5",
+        "a_page": 3,
+        "a_top_pct": 19.372,
+        "q_page": 19,
+        "q_top_pct": 17.435,
+        "a_text": "1.4.5 There are 5 options fc",
+        "q_text": "14.5 In how many ways ca"
+      },
+      {
+        "label": "1.4.6",
+        "a_page": 3,
+        "a_top_pct": 25.651,
+        "q_page": 19,
+        "q_top_pct": 20.328,
+        "a_text": "14.6 We first place the mai",
+        "q_text": "14.6 Suppose that I have 6"
+      },
+      {
+        "label": "1.4.8",
+        "a_page": 3,
+        "a_top_pct": 40.013,
+        "q_page": 19,
+        "q_top_pct": 29.867,
+        "a_text": "14.8 There are 15 choices fc",
+        "q_text": "1.4.8 My club has 15 membe"
+      },
+      {
+        "label": "1.4.9",
+        "a_page": 3,
+        "a_top_pct": 44.623,
+        "q_page": 19,
+        "q_top_pct": 34.715,
+        "a_text": "149",
+        "q_text": "1.4.9 Compute each of the {"
+      },
+      {
+        "label": "1.5.1",
+        "a_page": 3,
+        "a_top_pct": 63.995,
+        "q_page": 21,
+        "q_top_pct": 43.081,
+        "a_text": "15.1",
+        "q_text": "1.5.1 Compute the followin"
+      },
+      {
+        "label": "1.5.3",
+        "a_page": 4,
+        "a_top_pct": 12.759,
+        "q_page": 21,
+        "q_top_pct": 61.845,
+        "a_text": "153",
+        "q_text": "15.3 12 balls numbered 1 t"
+      },
+      {
+        "label": "1.5.4",
+        "a_page": 4,
+        "a_top_pct": 30.06,
+        "q_page": 21,
+        "q_top_pct": 74.59,
+        "a_text": "154 Using algebra, w",
+        "q_text": "15.4% Can you simplify P"
+      },
+      {
+        "label": "1.20",
+        "a_page": 4,
+        "a_top_pct": 76.086,
+        "q_page": 23,
+        "q_top_pct": 58.405,
+        "a_text": "1.20 Let the number of",
+        "q_text": "1.20 There are 20 people in"
+      },
+      {
+        "label": "1.24",
+        "a_page": 5,
+        "a_top_pct": 31.864,
+        "q_page": 23,
+        "q_top_pct": 77.482,
+        "a_text": "1.24 We must count the num",
+        "q_text": "1.24 The local theater has o1"
+      },
+      {
+        "label": "1.25",
+        "a_page": 5,
+        "a_top_pct": 36.74,
+        "q_page": 23,
+        "q_top_pct": 82.33,
+        "a_text": "1.25 There are 7 options for t!",
+        "q_text": "1.25 Inhow many ways cai"
+      },
+      {
+        "label": "1.26",
+        "a_page": 5,
+        "a_top_pct": 39.145,
+        "q_page": 23,
+        "q_top_pct": 85.223,
+        "a_text": "1.26 5players are being chose",
+        "q_text": "1.26 Our basketball team h"
+      },
+      {
+        "label": "1.27",
+        "a_page": 5,
+        "a_top_pct": 44.088,
+        "q_page": 24,
+        "q_top_pct": 7.037,
+        "a_text": "1.27",
+        "q_text": "1.27"
+      },
+      {
+        "label": "1.8",
+        "a_page": 6,
+        "a_top_pct": 10.087,
+        "q_page": 6,
+        "q_top_pct": 52.541,
+        "a_text": "1.8",
+        "q_text": "Problem 1.8; There are 27 c:"
+      },
+      {
+        "label": "1.29",
+        "a_page": 6,
+        "a_top_pct": 56.446,
+        "q_page": 24,
+        "q_top_pct": 66.302,
+        "a_text": "1.29 Note that 7? < 50",
+        "q_text": "1.29 How many positive in"
+      },
+      {
+        "label": "1.30",
+        "a_page": 7,
+        "a_top_pct": 12.224,
+        "q_page": 24,
+        "q_top_pct": 71.071,
+        "a_text": "1.30 Let x be number of pe",
+        "q_text": "1.30 There are 190 people c"
+      },
+      {
+        "label": "1.31",
+        "a_page": 7,
+        "a_top_pct": 43.487,
+        "q_page": 24,
+        "q_top_pct": 79.672,
+        "a_text": "1.31 Let xbethe numberof:",
+        "q_text": "1.31 There are 360 people"
+      },
+      {
+        "label": "1.33",
+        "a_page": 7,
+        "a_top_pct": 76.887,
+        "q_page": 25,
+        "q_top_pct": 11.65,
+        "a_text": "1.33 Note that 5! divides",
+        "q_text": "1.33 What is the greatest co"
+      },
+      {
+        "label": "1.3.5",
+        "a_page": 8,
+        "a_top_pct": 10.621,
+        "q_page": 12,
+        "q_top_pct": 78.499,
+        "a_text": "1.35 To have 9 as a fack",
+        "q_text": "13.5% Every student in m"
+      },
+      {
+        "label": "1.36",
+        "a_page": 8,
+        "a_top_pct": 16.566,
+        "q_page": 25,
+        "q_top_pct": 20.797,
+        "a_text": "1.36 Multiplying the equ",
+        "q_text": "1.36 Which integers 1 satisf"
+      },
+      {
+        "label": "1.38",
+        "a_page": 8,
+        "a_top_pct": 45.625,
+        "q_page": 25,
+        "q_top_pct": 36.513,
+        "a_text": "1.38 Notice that there are",
+        "q_text": "1.38 We connect dots with"
+      }
+    ],
+    "2": [
+      {
+        "label": "2.2.1",
+        "a_page": 9,
+        "a_top_pct": 36.607,
+        "q_page": 34,
+        "q_top_pct": 70.524,
+        "a_text": "22.1 There are three cases.",
+        "q_text": "2.2.1 How many 3-letter wi"
+      },
+      {
+        "label": "2.2.2",
+        "a_page": 9,
+        "a_top_pct": 53.106,
+        "q_page": 34,
+        "q_top_pct": 75.293,
+        "a_text": "22.2 There are two cases.",
+        "q_text": "2.2.2 Ihave two hats. In on"
+      },
+      {
+        "label": "2.2.3",
+        "a_page": 9,
+        "a_top_pct": 72.144,
+        "q_page": 34,
+        "q_top_pct": 82.017,
+        "a_text": "2.2.3 We go through either |",
+        "q_text": "2.2.3 How many paths are"
+      },
+      {
+        "label": "2.2.4",
+        "a_page": 10,
+        "a_top_pct": 10.621,
+        "q_page": 35,
+        "q_top_pct": 35.106,
+        "a_text": "2.2.4 There are several ca",
+        "q_text": "2.2.4 How many triangles a"
+      },
+      {
+        "label": "2.2.5",
+        "a_page": 10,
+        "a_top_pct": 28.257,
+        "q_page": 35,
+        "q_top_pct": 37.998,
+        "a_text": "22.5 We count the numbi",
+        "q_text": "2.2.5% How many different"
+      },
+      {
+        "label": "2.2.6",
+        "a_page": 10,
+        "a_top_pct": 55.043,
+        "q_page": 35,
+        "q_top_pct": 59.03,
+        "a_text": "2.2.6 When we counted #",
+        "q_text": "2.2.6% How many different"
+      },
+      {
+        "label": "2.3.1",
+        "a_page": 11,
+        "a_top_pct": 75.752,
+        "q_page": 38,
+        "q_top_pct": 12.432,
+        "a_text": "2.3.1 First we count the nu",
+        "q_text": "2.3.1 How many 4letter"
+      },
+      {
+        "label": "2.3.2",
+        "a_page": 11,
+        "a_top_pct": 87.575,
+        "q_page": 38,
+        "q_top_pct": 17.279,
+        "a_text": "2.3.2 A 5-digit number car",
+        "q_text": "2.3.2 How many 5-digit nu:"
+      },
+      {
+        "label": "2.3.3",
+        "a_page": 12,
+        "a_top_pct": 20.641,
+        "q_page": 38,
+        "q_top_pct": 19.781,
+        "a_text": "23.3 The number of all",
+        "q_text": "23.3 Lhave 6 shirts, 6 pairs"
+      },
+      {
+        "label": "2.3.4",
+        "a_page": 12,
+        "a_top_pct": 26.653,
+        "q_page": 38,
+        "q_top_pct": 26.896,
+        "a_text": "23.4 The number of all",
+        "q_text": "2.3.4 Inhow many ways ca:"
+      },
+      {
+        "label": "2.4.1",
+        "a_page": 12,
+        "a_top_pct": 41.617,
+        "q_page": 41,
+        "q_top_pct": 50.43,
+        "a_text": "241 The first letter can |",
+        "q_text": "24.1 How many license pl"
+      },
+      {
+        "label": "2.4.3",
+        "a_page": 12,
+        "a_top_pct": 66.934,
+        "q_page": 41,
+        "q_top_pct": 58.092,
+        "a_text": "243",
+        "q_text": "2.4.3 How many 4-digit nu"
+      },
+      {
+        "label": "2.4.4",
+        "a_page": 13,
+        "a_top_pct": 12.892,
+        "q_page": 41,
+        "q_top_pct": 61.142,
+        "a_text": "24.4 Regardless of whether",
+        "q_text": "2.4.4 How many sequence"
+      },
+      {
+        "label": "2.5.1",
+        "a_page": 13,
+        "a_top_pct": 61.456,
+        "q_page": 44,
+        "q_top_pct": 90.227,
+        "a_text": "2.5.1 If we consider the grou",
+        "q_text": "2.5.1 A senate committee h"
+      },
+      {
+        "label": "2.5.2",
+        "a_page": 13,
+        "a_top_pct": 67.936,
+        "q_page": 45,
+        "q_top_pct": 6.802,
+        "a_text": "25.2 First we order the three",
+        "q_text": "25.2 The Happy Valley Ker"
+      },
+      {
+        "label": "2.5.3",
+        "a_page": 13,
+        "a_top_pct": 74.349,
+        "q_page": 45,
+        "q_top_pct": 13.526,
+        "a_text": "2.5.3 Solution 7: If the twins si",
+        "q_text": "2.5.3 The Jones family has!"
+      },
+      {
+        "label": "2.5.4",
+        "a_page": 14,
+        "a_top_pct": 30.528,
+        "q_page": 45,
+        "q_top_pct": 20.172,
+        "a_text": "254",
+        "q_text": "2.5.4 Our club has 20 mem"
+      },
+      {
+        "label": "2.5.5",
+        "a_page": 14,
+        "a_top_pct": 48.363,
+        "q_page": 45,
+        "q_top_pct": 35.106,
+        "a_text": "25.5",
+        "q_text": "2.5.5 Our club has 25 memt"
+      },
+      {
+        "label": "2.16",
+        "a_page": 14,
+        "a_top_pct": 77.221,
+        "q_page": 46,
+        "q_top_pct": 42.299,
+        "a_text": "2.16 Each of the 4 digits",
+        "q_text": "2.16 How many 4-digit nu:"
+      },
+      {
+        "label": "2.17",
+        "a_page": 14,
+        "a_top_pct": 81.63,
+        "q_page": 46,
+        "q_top_pct": 45.27,
+        "a_text": "2.17 The first letter can",
+        "q_text": "2.17 How many w"
+      },
+      {
+        "label": "2.18",
+        "a_page": 14,
+        "a_top_pct": 86.039,
+        "q_page": 46,
+        "q_top_pct": 49.961,
+        "a_text": "2.18 We have 5 choices",
+        "q_text": "2.18 How many different |"
+      },
+      {
+        "label": "2.19",
+        "a_page": 15,
+        "a_top_pct": 14.83,
+        "q_page": 46,
+        "q_top_pct": 56.685,
+        "a_text": "2.19 faz 4, then a? +b? 4",
+        "q_text": "2.19 How many triples (a,"
+      },
+      {
+        "label": "2.20",
+        "a_page": 15,
+        "a_top_pct": 32.331,
+        "q_page": 46,
+        "q_top_pct": 59.578,
+        "a_text": "2.20 There are 200 \u2014 100 +",
+        "q_text": "2.20 How many numbers t"
+      },
+      {
+        "label": "2.26",
+        "a_page": 16,
+        "a_top_pct": 13.16,
+        "q_page": 46,
+        "q_top_pct": 90.227,
+        "a_text": "2.26 The units digit mu",
+        "q_text": "2.26 How many positive, e"
+      },
+      {
+        "label": "2.27",
+        "a_page": 16,
+        "a_top_pct": 28.056,
+        "q_page": 47,
+        "q_top_pct": 16.185,
+        "a_text": "2.27 A naive approach v",
+        "q_text": "2.27 The digital sum of ant"
+      },
+      {
+        "label": "2.30",
+        "a_page": 16,
+        "a_top_pct": 84.168,
+        "q_page": 47,
+        "q_top_pct": 41.986,
+        "a_text": "2.30 start at one of",
+        "q_text": "2.30% In how many waysc"
+      }
+    ],
+    "3": [
+      {
+        "label": "3.2.1",
+        "a_page": 20,
+        "a_top_pct": 35.538,
+        "q_page": 52,
+        "q_top_pct": 15.403,
+        "a_text": "3.21",
+        "q_text": "3.2.1"
+      },
+      {
+        "label": "3.2.2",
+        "a_page": 20,
+        "a_top_pct": 52.639,
+        "q_page": 52,
+        "q_top_pct": 28.147,
+        "a_text": "3.22",
+        "q_text": "3.2.2"
+      },
+      {
+        "label": "3.2.3",
+        "a_page": 20,
+        "a_top_pct": 68.47,
+        "q_page": 52,
+        "q_top_pct": 40.188,
+        "a_text": "3.2.3",
+        "q_text": "3.2.3 For each of the follow:"
+      },
+      {
+        "label": "3.2.4",
+        "a_page": 21,
+        "a_top_pct": 56.313,
+        "q_page": 52,
+        "q_top_pct": 73.651,
+        "a_text": "3.24 There are 5! ways toa",
+        "q_text": "3.2.4 Ihave 5 books, two of"
+      },
+      {
+        "label": "3.2.5",
+        "a_page": 21,
+        "a_top_pct": 61.59,
+        "q_page": 52,
+        "q_top_pct": 78.421,
+        "a_text": "3.2.5 There are 8! ways toz",
+        "q_text": "3.2.5 There are 8 pens alon"
+      },
+      {
+        "label": "3.3.1",
+        "a_page": 21,
+        "a_top_pct": 75.017,
+        "q_page": 57,
+        "q_top_pct": 41.126,
+        "a_text": "3.3.1 If the co-president po",
+        "q_text": "3.3.1 Aclub has 15 membe"
+      },
+      {
+        "label": "3.3.2",
+        "a_page": 21,
+        "a_top_pct": 81.897,
+        "q_page": 57,
+        "q_top_pct": 45.895,
+        "a_text": "3.3.2 If the order the balls z",
+        "q_text": "3.3.2 [have twenty balls nu"
+      },
+      {
+        "label": "3.3.3",
+        "a_page": 22,
+        "a_top_pct": 11.289,
+        "q_page": 57,
+        "q_top_pct": 50.665,
+        "a_text": "3.3.3 Each team plays 6",
+        "q_text": "3.3.3 A sports conference |"
+      },
+      {
+        "label": "3.3.4",
+        "a_page": 22,
+        "a_top_pct": 20.374,
+        "q_page": 57,
+        "q_top_pct": 57.467,
+        "a_text": "3.34",
+        "q_text": "3.3.4"
+      },
+      {
+        "label": "3.3.5",
+        "a_page": 22,
+        "a_top_pct": 40.548,
+        "q_page": 57,
+        "q_top_pct": 65.754,
+        "a_text": "33.5 There are 12 vertice",
+        "q_text": "3.3.5% How many interior"
+      },
+      {
+        "label": "3.4.1",
+        "a_page": 22,
+        "a_top_pct": 59.519,
+        "q_page": 61,
+        "q_top_pct": 80.375,
+        "a_text": "3.4.1 There are 8! ways t",
+        "q_text": "3.4.1 In how many ways ca"
+      },
+      {
+        "label": "3.4.2",
+        "a_page": 22,
+        "a_top_pct": 64.863,
+        "q_page": 61,
+        "q_top_pct": 83.268,
+        "a_text": "342 There are 5! ways",
+        "q_text": "3.4.2 In how many ways ce"
+      },
+      {
+        "label": "3.4.3",
+        "a_page": 22,
+        "a_top_pct": 71.877,
+        "q_page": 61,
+        "q_top_pct": 86.161,
+        "a_text": "3.43",
+        "q_text": "3.4.3 A Senate committee f"
+      },
+      {
+        "label": "3.44",
+        "a_page": 23,
+        "a_top_pct": 23.514,
+        "q_page": 62,
+        "q_top_pct": 11.884,
+        "a_text": "3.44 There are 6 choices of",
+        "q_text": "3.44 Inhow many ways cai"
+      },
+      {
+        "label": "3.1",
+        "a_page": 23,
+        "a_top_pct": 61.79,
+        "q_page": 49,
+        "q_top_pct": 77.482,
+        "a_text": "3.1",
+        "q_text": "Problem 3.1: How many p"
+      },
+      {
+        "label": "3.13",
+        "a_page": 24,
+        "a_top_pct": 53.908,
+        "q_page": 63,
+        "q_top_pct": 64.973,
+        "a_text": "3.13 There are 8! ways |",
+        "q_text": "3.13 [have 3 identical mat"
+      },
+      {
+        "label": "3.14",
+        "a_page": 24,
+        "a_top_pct": 60.989,
+        "q_page": 63,
+        "q_top_pct": 71.697,
+        "a_text": "3.14 First we place the (",
+        "q_text": "3.14 In how many ways cz"
+      },
+      {
+        "label": "3.15",
+        "a_page": 24,
+        "a_top_pct": 68.136,
+        "q_page": 63,
+        "q_top_pct": 76.466,
+        "a_text": "3.15 There are 5! ways to",
+        "q_text": "3.15 In how many ways ca"
+      },
+      {
+        "label": "3.16",
+        "a_page": 24,
+        "a_top_pct": 75.217,
+        "q_page": 63,
+        "q_top_pct": 81.235,
+        "a_text": "3.16 There are 9! ways {",
+        "q_text": "3.16 In how many ways ca"
+      },
+      {
+        "label": "3.17",
+        "a_page": 24,
+        "a_top_pct": 80.628,
+        "q_page": 63,
+        "q_top_pct": 84.128,
+        "a_text": "3.17 First choose three c",
+        "q_text": "3.17 In how many ways cz"
+      },
+      {
+        "label": "3.18",
+        "a_page": 25,
+        "a_top_pct": 12.224,
+        "q_page": 63,
+        "q_top_pct": 88.898,
+        "a_text": "3.18 All 12 people shake h",
+        "q_text": "3.18 There are 6 married \u00abx"
+      },
+      {
+        "label": "3.19",
+        "a_page": 25,
+        "a_top_pct": 19.84,
+        "q_page": 64,
+        "q_top_pct": 6.88,
+        "a_text": "3.19 We can choose two 01",
+        "q_text": "3.19 Seven points are marl"
+      },
+      {
+        "label": "3.20",
+        "a_page": 25,
+        "a_top_pct": 25.451,
+        "q_page": 64,
+        "q_top_pct": 11.728,
+        "a_text": "3.20 Each pair of lines wil",
+        "q_text": "3.20 How many pairs of ve"
+      },
+      {
+        "label": "3.21",
+        "a_page": 25,
+        "a_top_pct": 37.007,
+        "q_page": 64,
+        "q_top_pct": 27.678,
+        "a_text": "3.21",
+        "q_text": "3.21"
+      },
+      {
+        "label": "3.23",
+        "a_page": 25,
+        "a_top_pct": 59.452,
+        "q_page": 64,
+        "q_top_pct": 48.241,
+        "a_text": "3.23 Each team plays the {",
+        "q_text": "3.23 Ina sports league, the"
+      },
+      {
+        "label": "3.24",
+        "a_page": 25,
+        "a_top_pct": 68.671,
+        "q_page": 64,
+        "q_top_pct": 54.887,
+        "a_text": "3.24 There are three diagon",
+        "q_text": "3.24 How many diagonals"
+      },
+      {
+        "label": "3.25",
+        "a_page": 25,
+        "a_top_pct": 75.484,
+        "q_page": 64,
+        "q_top_pct": 57.78,
+        "a_text": "3.25 We can break up the s",
+        "q_text": "3.25 Suppose j < k are posi"
+      },
+      {
+        "label": "3.26",
+        "a_page": 26,
+        "a_top_pct": 30.795,
+        "q_page": 64,
+        "q_top_pct": 68.96,
+        "a_text": "3.26 Bach face must hav",
+        "q_text": "3.26% A regular tetrahedrc"
+      },
+      {
+        "label": "3.27",
+        "a_page": 26,
+        "a_top_pct": 44.088,
+        "q_page": 64,
+        "q_top_pct": 76.075,
+        "a_text": "3.27 First, fix the positi",
+        "q_text": "3.27% 7 different ke:"
+      },
+      {
+        "label": "3.28",
+        "a_page": 26,
+        "a_top_pct": 55.511,
+        "q_page": 64,
+        "q_top_pct": 85.457,
+        "a_text": "3.28 There are 8! ways t",
+        "q_text": "3.28% In how many ways"
+      }
+    ],
+    "4": [
+      {
+        "label": "4.2.1",
+        "a_page": 27,
+        "a_top_pct": 36.273,
+        "q_page": 68,
+        "q_top_pct": 60.907,
+        "a_text": "4.21",
+        "q_text": "421"
+      },
+      {
+        "label": "4.2.3",
+        "a_page": 27,
+        "a_top_pct": 59.987,
+        "q_page": 68,
+        "q_top_pct": 73.886,
+        "a_text": "4.2.3 First we choose the go:",
+        "q_text": "4.2.3 Our water polo team"
+      },
+      {
+        "label": "4.2.4",
+        "a_page": 27,
+        "a_top_pct": 70.407,
+        "q_page": 68,
+        "q_top_pct": 80.532,
+        "a_text": "4.2.4 No three vertices are cc",
+        "q_text": "424 Consider a regular oc"
+      },
+      {
+        "label": "4.2.5",
+        "a_page": 27,
+        "a_top_pct": 77.422,
+        "q_page": 68,
+        "q_top_pct": 85.379,
+        "a_text": "4.2.5 There are 55 ways to ch",
+        "q_text": "4.2.5 The Senate has 100 m"
+      },
+      {
+        "label": "4.2.6",
+        "a_page": 28,
+        "a_top_pct": 15.898,
+        "q_page": 68,
+        "q_top_pct": 90.149,
+        "a_text": "4.2.6 There are 30 ways",
+        "q_text": "4.2.6 My state\u2019s lottery ha:"
+      },
+      {
+        "label": "4.3.2",
+        "a_page": 28,
+        "a_top_pct": 75.618,
+        "q_page": 72,
+        "q_top_pct": 45.895,
+        "a_text": "4.3.2 Recall that by defir",
+        "q_text": "4.3.2 What is (5) for any |"
+      },
+      {
+        "label": "4.3.3",
+        "a_page": 28,
+        "a_top_pct": 80.962,
+        "q_page": 72,
+        "q_top_pct": 51.603,
+        "a_text": "433 =,",
+        "q_text": "43.3 What is for any ]"
+      },
+      {
+        "label": "4.3.4",
+        "a_page": 29,
+        "a_top_pct": 10.822,
+        "q_page": 72,
+        "q_top_pct": 55.668,
+        "a_text": "43.4 (7) = ap = LI A",
+        "q_text": "43.4 Whatis (\") for any |"
+      },
+      {
+        "label": "4.3.5",
+        "a_page": 29,
+        "a_top_pct": 16.767,
+        "q_page": 72,
+        "q_top_pct": 60.516,
+        "a_text": "43.5 By the definition of cc",
+        "q_text": "43.5 Does () make any :"
+      },
+      {
+        "label": "4.4.1",
+        "a_page": 29,
+        "a_top_pct": 45.291,
+        "q_page": 75,
+        "q_top_pct": 92.103,
+        "a_text": "441",
+        "q_text": "441 Compute the followir"
+      },
+      {
+        "label": "4.4.2",
+        "a_page": 29,
+        "a_top_pct": 63.594,
+        "q_page": 76,
+        "q_top_pct": 16.888,
+        "a_text": "4.4.2",
+        "q_text": "44.2 Compute the followir"
+      },
+      {
+        "label": "4.4.3",
+        "a_page": 30,
+        "a_top_pct": 10.888,
+        "q_page": 76,
+        "q_top_pct": 35.731,
+        "a_text": "44.3 First we choose #",
+        "q_text": "44.3 My soccer team has\""
+      },
+      {
+        "label": "4.13",
+        "a_page": 30,
+        "a_top_pct": 63.661,
+        "q_page": 77,
+        "q_top_pct": 78.733,
+        "a_text": "4.13 Order does not ma",
+        "q_text": "4.13 Iwona trip for four tc"
+      },
+      {
+        "label": "4.4.4",
+        "a_page": 30,
+        "a_top_pct": 66.533,
+        "q_page": 76,
+        "q_top_pct": 42.064,
+        "a_text": "444 There are = 101",
+        "q_text": "444 Whatis ( n ) fora"
+      },
+      {
+        "label": "4.15",
+        "a_page": 30,
+        "a_top_pct": 71.476,
+        "q_page": 77,
+        "q_top_pct": 90.227,
+        "a_text": "4.15 Order does not ma",
+        "q_text": "4.15 I want to read 4 books"
+      },
+      {
+        "label": "4.16",
+        "a_page": 30,
+        "a_top_pct": 74.081,
+        "q_page": 78,
+        "q_top_pct": 6.88,
+        "a_text": "4.16 No three vertices a",
+        "q_text": "4.16 How many triangles cz"
+      },
+      {
+        "label": "4.18",
+        "a_page": 31,
+        "a_top_pct": 15.431,
+        "q_page": 78,
+        "q_top_pct": 44.175,
+        "a_text": "4.18",
+        "q_text": "4.18 Compute the followin"
+      },
+      {
+        "label": "4.20",
+        "a_page": 31,
+        "a_top_pct": 51.971,
+        "q_page": 78,
+        "q_top_pct": 69.977,
+        "a_text": "4.20 We approach this prob",
+        "q_text": "4.20 The Aviation Club at:"
+      },
+      {
+        "label": "4.21",
+        "a_page": 31,
+        "a_top_pct": 66.934,
+        "q_page": 78,
+        "q_top_pct": 78.577,
+        "a_text": "4.21",
+        "q_text": "4.21 There are 2 Senators ft"
+      },
+      {
+        "label": "4.22",
+        "a_page": 31,
+        "a_top_pct": 80.628,
+        "q_page": 79,
+        "q_top_pct": 6.489,
+        "a_text": "4.22",
+        "q_text": "4.22 There are 5 different pi"
+      },
+      {
+        "label": "4.23",
+        "a_page": 32,
+        "a_top_pct": 18.036,
+        "q_page": 79,
+        "q_top_pct": 17.045,
+        "a_text": "4.23 The three cards of",
+        "q_text": "4.23% In poker, a 5-card har"
+      },
+      {
+        "label": "4.24",
+        "a_page": 32,
+        "a_top_pct": 28.657,
+        "q_page": 79,
+        "q_top_pct": 25.567,
+        "a_text": "4.24 Let's look at where",
+        "q_text": "4.24 Use combinations to fi"
+      },
+      {
+        "label": "4.25",
+        "a_page": 32,
+        "a_top_pct": 35.003,
+        "q_page": 79,
+        "q_top_pct": 28.46,
+        "a_text": "4.25",
+        "q_text": "4.25 Let ABCDEFGH beac"
+      }
+    ],
+    "5": [
+      {
+        "label": "5.2.1",
+        "a_page": 33,
+        "a_top_pct": 37.007,
+        "q_page": 83,
+        "q_top_pct": 27.678,
+        "a_text": "5.2.1 There are 5 steps to.",
+        "q_text": "5.2.1 How many paths are |"
+      },
+      {
+        "label": "5.2.2",
+        "a_page": 33,
+        "a_top_pct": 42.752,
+        "q_page": 83,
+        "q_top_pct": 51.837,
+        "a_text": "5.22 There are 4 steps to t",
+        "q_text": "5.2.2 How many paths are"
+      },
+      {
+        "label": "5.2.3",
+        "a_page": 33,
+        "a_top_pct": 48.564,
+        "q_page": 83,
+        "q_top_pct": 56.607,
+        "a_text": "5.2.3",
+        "q_text": "5.2.3 Consider the grid in F"
+      },
+      {
+        "label": "5.3.1",
+        "a_page": 33,
+        "a_top_pct": 73.28,
+        "q_page": 88,
+        "q_top_pct": 12.51,
+        "a_text": "5.3.1 There are 8 Republica:",
+        "q_text": "5.3.1 A Senate committee |"
+      },
+      {
+        "label": "5.3.3",
+        "a_page": 34,
+        "a_top_pct": 24.983,
+        "q_page": 88,
+        "q_top_pct": 32.447,
+        "a_text": "53.3 Place Biter in the :",
+        "q_text": "5.3.3 Suppose we want tod"
+      },
+      {
+        "label": "5.4.3",
+        "a_page": 36,
+        "a_top_pct": 27.121,
+        "q_page": 92,
+        "q_top_pct": 30.102,
+        "a_text": "5.43",
+        "q_text": "5.4.3 How many ways are |"
+      },
+      {
+        "label": "5.4.1",
+        "a_page": 36,
+        "a_top_pct": 77.221,
+        "q_page": 91,
+        "q_top_pct": 86.396,
+        "a_text": "5.41 We have 5 options",
+        "q_text": "5.4.1 How many ways are"
+      },
+      {
+        "label": "5.12",
+        "a_page": 36,
+        "a_top_pct": 81.83,
+        "q_page": 93,
+        "q_top_pct": 53.167,
+        "a_text": "5.12",
+        "q_text": "5.12 [have 10 distinguishal"
+      },
+      {
+        "label": "5.13",
+        "a_page": 37,
+        "a_top_pct": 28.19,
+        "q_page": 93,
+        "q_top_pct": 63.409,
+        "a_text": "5.13",
+        "q_text": "5.13 My school\u2019s math clut"
+      },
+      {
+        "label": "5.14",
+        "a_page": 37,
+        "a_top_pct": 56.713,
+        "q_page": 93,
+        "q_top_pct": 76.075,
+        "a_text": "5.14 To make the first comm",
+        "q_text": "5.14 The Sagebrush studen"
+      },
+      {
+        "label": "5.16",
+        "a_page": 38,
+        "a_top_pct": 12.091,
+        "q_page": 94,
+        "q_top_pct": 12.353,
+        "a_text": "5.16",
+        "q_text": "5.16 How many ways are t"
+      },
+      {
+        "label": "5.17",
+        "a_page": 38,
+        "a_top_pct": 82.432,
+        "q_page": 94,
+        "q_top_pct": 41.126,
+        "a_text": "5.17 If the edge from F tc",
+        "q_text": "5.17 In the diagram shown"
+      },
+      {
+        "label": "5.19",
+        "a_page": 39,
+        "a_top_pct": 18.303,
+        "q_page": 94,
+        "q_top_pct": 66.849,
+        "a_text": "5.19",
+        "q_text": "5.19 Three women and sev"
+      },
+      {
+        "label": "5.20",
+        "a_page": 39,
+        "a_top_pct": 38.477,
+        "q_page": 94,
+        "q_top_pct": 79.593,
+        "a_text": "5.20",
+        "q_text": "5.20 In this problem that p"
+      },
+      {
+        "label": "5.21",
+        "a_page": 39,
+        "a_top_pct": 55.311,
+        "q_page": 95,
+        "q_top_pct": 6.724,
+        "a_text": "5.21 We do this by complem",
+        "q_text": "5.21 How many positive int"
+      },
+      {
+        "label": "5.22",
+        "a_page": 39,
+        "a_top_pct": 76.42,
+        "q_page": 95,
+        "q_top_pct": 13.37,
+        "a_text": "5.22 20men shake 38 hands",
+        "q_text": "5.22 Twenty married coup]"
+      },
+      {
+        "label": "5.23",
+        "a_page": 39,
+        "a_top_pct": 85.571,
+        "q_page": 95,
+        "q_top_pct": 21.892,
+        "a_text": "5.23 Each circle can meet ea",
+        "q_text": "5.23 Five different circles a"
+      },
+      {
+        "label": "5.25",
+        "a_page": 40,
+        "a_top_pct": 24.315,
+        "q_page": 95,
+        "q_top_pct": 35.262,
+        "a_text": "5.25 In this case k = 4,5",
+        "q_text": "5.25% An integer is called s"
+      },
+      {
+        "label": "5.26",
+        "a_page": 40,
+        "a_top_pct": 57.315,
+        "q_page": 95,
+        "q_top_pct": 41.986,
+        "a_text": "5.26 Mack must make 3",
+        "q_text": "5.26% Mack the bug starts"
+      }
+    ],
+    "6": [
+      {
+        "label": "6.10",
+        "a_page": 42,
+        "a_top_pct": 46.76,
+        "q_page": 109,
+        "q_top_pct": 64.269,
+        "a_text": "6.10 Since 30% of the",
+        "q_text": "6.10 Ihave a bag with coin"
+      },
+      {
+        "label": "6.12",
+        "a_page": 42,
+        "a_top_pct": 64.596,
+        "q_page": 109,
+        "q_top_pct": 79.203,
+        "a_text": "6.12 Wehavea4 x4",
+        "q_text": "6.12 A lattice point is a poi"
+      },
+      {
+        "label": "6.13",
+        "a_page": 42,
+        "a_top_pct": 83.033,
+        "q_page": 109,
+        "q_top_pct": 86.161,
+        "a_text": "6.13 We divide into ca",
+        "q_text": "6.13 Five people are sitting"
+      },
+      {
+        "label": "6.14",
+        "a_page": 43,
+        "a_top_pct": 32.064,
+        "q_page": 110,
+        "q_top_pct": 9.539,
+        "a_text": "6.14 When you look from",
+        "q_text": "6.14 1000 unit cubes (1 x1>"
+      },
+      {
+        "label": "6.15",
+        "a_page": 43,
+        "a_top_pct": 38.076,
+        "q_page": 110,
+        "q_top_pct": 14.308,
+        "a_text": "6.15",
+        "q_text": "6.15 In this problem, we ar"
+      },
+      {
+        "label": "6.16",
+        "a_page": 44,
+        "a_top_pct": 29.86,
+        "q_page": 110,
+        "q_top_pct": 26.818,
+        "a_text": "6.16 Note that in x, 2",
+        "q_text": "6.16 For any positive integ"
+      },
+      {
+        "label": "6.17",
+        "a_page": 44,
+        "a_top_pct": 38.076,
+        "q_page": 110,
+        "q_top_pct": 40.109,
+        "a_text": "6.17 To get to (3,5,2),\u00a2",
+        "q_text": "6.17 Mack the Millipede stz"
+      },
+      {
+        "label": "6.18",
+        "a_page": 44,
+        "a_top_pct": 51.904,
+        "q_page": 110,
+        "q_top_pct": 49.179,
+        "a_text": "6.18 Notice how once }",
+        "q_text": "6.18 Ina shooting match, \u00a7"
+      },
+      {
+        "label": "6.20",
+        "a_page": 45,
+        "a_top_pct": 18.103,
+        "q_page": 110,
+        "q_top_pct": 74.355,
+        "a_text": "6.20 There are 2 paths toe",
+        "q_text": "6.20 Starting at the M in the"
+      }
+    ],
+    "7": [
+      {
+        "label": "7.2.1",
+        "a_page": 46,
+        "a_top_pct": 37.007,
+        "q_page": 114,
+        "q_top_pct": 71.931,
+        "a_text": "721",
+        "q_text": "7.2.1 Suppose we roll a sta"
+      },
+      {
+        "label": "7.2.2",
+        "a_page": 46,
+        "a_top_pct": 54.509,
+        "q_page": 114,
+        "q_top_pct": 83.034,
+        "a_text": "722",
+        "q_text": "7.2.2 A standard deck of 5:"
+      },
+      {
+        "label": "7.2.3",
+        "a_page": 47,
+        "a_top_pct": 24.382,
+        "q_page": 115,
+        "q_top_pct": 24.707,
+        "a_text": "7.23 In all four parts, there",
+        "q_text": "7.23 Suppose we flip four"
+      },
+      {
+        "label": "7.3.1",
+        "a_page": 47,
+        "a_top_pct": 63.995,
+        "q_page": 117,
+        "q_top_pct": 80.61,
+        "a_text": "73.1 There are 3 yellow fac",
+        "q_text": "7.3.1 Suppose that we have"
+      },
+      {
+        "label": "7.3.2",
+        "a_page": 47,
+        "a_top_pct": 67.869,
+        "q_page": 117,
+        "q_top_pct": 85.379,
+        "a_text": "7.3.2 There are 3 ways to ro",
+        "q_text": "7.3.2 Suppose that we roll"
+      },
+      {
+        "label": "7.3.4",
+        "a_page": 47,
+        "a_top_pct": 86.239,
+        "q_page": 118,
+        "q_top_pct": 6.88,
+        "a_text": "7.34 In this set of integers,",
+        "q_text": "7.3.4% Suppose 5 different"
+      },
+      {
+        "label": "7.4.1",
+        "a_page": 48,
+        "a_top_pct": 29.593,
+        "q_page": 119,
+        "q_top_pct": 85.379,
+        "a_text": "7.41 There are = 4",
+        "q_text": "7.4.1 Aclub has 10 membe"
+      },
+      {
+        "label": "7.4.2",
+        "a_page": 48,
+        "a_top_pct": 36.005,
+        "q_page": 119,
+        "q_top_pct": 90.149,
+        "a_text": "74.2 There are (7) = 19",
+        "q_text": "7.4.2 Another club has 201"
+      },
+      {
+        "label": "7.4.4",
+        "a_page": 48,
+        "a_top_pct": 54.442,
+        "q_page": 120,
+        "q_top_pct": 11.728,
+        "a_text": "74.4 Solution 1: There z",
+        "q_text": "744 2 vertices of an octagc"
+      },
+      {
+        "label": "7.4.5",
+        "a_page": 48,
+        "a_top_pct": 67.735,
+        "q_page": 120,
+        "q_top_pct": 14.621,
+        "a_text": "745 There are ) = 22,",
+        "q_text": "74.5 3 cards are chosen at"
+      },
+      {
+        "label": "7.12",
+        "a_page": 49,
+        "a_top_pct": 44.289,
+        "q_page": 121,
+        "q_top_pct": 9.695,
+        "a_text": "7.12 Inall of these parts, there",
+        "q_text": "7.12 Two fair 6-sided dice a"
+      },
+      {
+        "label": "7.4.3",
+        "a_page": 50,
+        "a_top_pct": 29.793,
+        "q_page": 120,
+        "q_top_pct": 6.88,
+        "a_text": "7.43 For all of these par",
+        "q_text": "7.4.3 What is the probabilit"
+      },
+      {
+        "label": "7.14",
+        "a_page": 50,
+        "a_top_pct": 50.434,
+        "q_page": 121,
+        "q_top_pct": 35.653,
+        "a_text": "7.14 There are 2 possib",
+        "q_text": "7.14 I flip a fair coin once a"
+      },
+      {
+        "label": "7.17",
+        "a_page": 50,
+        "a_top_pct": 85.972,
+        "q_page": 121,
+        "q_top_pct": 55.981,
+        "a_text": "7.17 There are 6x6 = 3",
+        "q_text": "7.17 Geoff and Trevor eact"
+      },
+      {
+        "label": "7.18",
+        "a_page": 51,
+        "a_top_pct": 21.376,
+        "q_page": 121,
+        "q_top_pct": 71.853,
+        "a_text": "7.18 Inany series of 7 flips,",
+        "q_text": "7.18 When flipping a fair c\u00a2"
+      },
+      {
+        "label": "7.20",
+        "a_page": 51,
+        "a_top_pct": 67.201,
+        "q_page": 122,
+        "q_top_pct": 6.959,
+        "a_text": "7.20 Paco\u2019s first number j",
+        "q_text": "7.20 Paco uses a spinner tc"
+      },
+      {
+        "label": "7.21",
+        "a_page": 51,
+        "a_top_pct": 78.557,
+        "q_page": 122,
+        "q_top_pct": 13.604,
+        "a_text": "7.21 We will first count the",
+        "q_text": "7.21 Perhaps the most com"
+      },
+      {
+        "label": "7.23",
+        "a_page": 52,
+        "a_top_pct": 71.476,
+        "q_page": 122,
+        "q_top_pct": 32.525,
+        "a_text": "7.23 Lat the probabilit",
+        "q_text": "7.23% One member of the c"
+      },
+      {
+        "label": "7.24",
+        "a_page": 52,
+        "a_top_pct": 80.361,
+        "q_page": 122,
+        "q_top_pct": 39.249,
+        "a_text": "7.24 We choose the fir",
+        "q_text": "7.24% Ihave 120 blocks. Ez"
+      }
+    ],
+    "8": [
+      {
+        "label": "8.2.1",
+        "a_page": 54,
+        "a_top_pct": 37.275,
+        "q_page": 128,
+        "q_top_pct": 28.851,
+        "a_text": "8.21 The first case is t",
+        "q_text": "8.21 Check our answers in"
+      },
+      {
+        "label": "8.2.2",
+        "a_page": 54,
+        "a_top_pct": 55.377,
+        "q_page": 128,
+        "q_top_pct": 33.698,
+        "a_text": "8.2.2 Rolling two dice |",
+        "q_text": "8.2.2 Two standard 6-sidec"
+      },
+      {
+        "label": "8.2.3",
+        "a_page": 54,
+        "a_top_pct": 63.594,
+        "q_page": 128,
+        "q_top_pct": 38.468,
+        "a_text": "8.2.3 There are 16 odd:",
+        "q_text": "8.2.3 Acard is drawn at ran"
+      },
+      {
+        "label": "8.2.4",
+        "a_page": 54,
+        "a_top_pct": 71.61,
+        "q_page": 128,
+        "q_top_pct": 43.237,
+        "a_text": "8.2.4 The number of px",
+        "q_text": "8.2.4 A penny, nickel, and"
+      },
+      {
+        "label": "8.2.5",
+        "a_page": 54,
+        "a_top_pct": 79.893,
+        "q_page": 128,
+        "q_top_pct": 48.006,
+        "a_text": "8.2.5 The number of w",
+        "q_text": "8.2.5 8 coins are simultane:"
+      },
+      {
+        "label": "8.2.6",
+        "a_page": 55,
+        "a_top_pct": 9.686,
+        "q_page": 128,
+        "q_top_pct": 52.776,
+        "a_text": "8.2.6 The number of way:",
+        "q_text": "8.2.6 5 white balls and k bl."
+      },
+      {
+        "label": "8.3.1",
+        "a_page": 55,
+        "a_top_pct": 59.853,
+        "q_page": 130,
+        "q_top_pct": 57.78,
+        "a_text": "8.3.1 The only way that m\u00ab",
+        "q_text": "8.3.1 What is the probabilit"
+      },
+      {
+        "label": "8.3.3",
+        "a_page": 55,
+        "a_top_pct": 78.023,
+        "q_page": 130,
+        "q_top_pct": 63.565,
+        "a_text": "8.3.3 The number of ways",
+        "q_text": "83.3 A bin has 8 black ba"
+      },
+      {
+        "label": "8.3.4",
+        "a_page": 56,
+        "a_top_pct": 19.639,
+        "q_page": 130,
+        "q_top_pct": 68.335,
+        "a_text": "8.3.4 We will instead",
+        "q_text": "8.3.4 The letters of the wor"
+      },
+      {
+        "label": "8.3.5",
+        "a_page": 56,
+        "a_top_pct": 35.137,
+        "q_page": 130,
+        "q_top_pct": 73.104,
+        "a_text": "8.3.5 The number of w",
+        "q_text": "83.5 The Grammar club h"
+      },
+      {
+        "label": "8.4.1",
+        "a_page": 56,
+        "a_top_pct": 47.963,
+        "q_page": 135,
+        "q_top_pct": 55.356,
+        "a_text": "8.41 Inall parts we us",
+        "q_text": "8.4.1 We flip a fair coin 10t"
+      },
+      {
+        "label": "8.4.3",
+        "a_page": 57,
+        "a_top_pct": 33.801,
+        "q_page": 135,
+        "q_top_pct": 77.326,
+        "a_text": "84.3 There are 30 days in",
+        "q_text": "8.4.3 The probability of ge"
+      },
+      {
+        "label": "8.4.4",
+        "a_page": 57,
+        "a_top_pct": 42.619,
+        "q_page": 135,
+        "q_top_pct": 82.095,
+        "a_text": "8.4.4 When Biff scores, th",
+        "q_text": "8.4.4 Suppose the Grunters"
+      },
+      {
+        "label": "8.4.5",
+        "a_page": 57,
+        "a_top_pct": 48.697,
+        "q_page": 136,
+        "q_top_pct": 6.88,
+        "a_text": "8.45 The probability that",
+        "q_text": "8.4.5% We can see from Pre"
+      },
+      {
+        "label": "8.5.1",
+        "a_page": 58,
+        "a_top_pct": 15.364,
+        "q_page": 137,
+        "q_top_pct": 81.079,
+        "a_text": "85.1",
+        "q_text": "8.5.1 Two cards are dealt at"
+      },
+      {
+        "label": "8.5.2",
+        "a_page": 58,
+        "a_top_pct": 80.962,
+        "q_page": 138,
+        "q_top_pct": 6.88,
+        "a_text": "8.5.2",
+        "q_text": "8.5.2 Three cards are dealt z"
+      },
+      {
+        "label": "8.5.3",
+        "a_page": 59,
+        "a_top_pct": 72.278,
+        "q_page": 138,
+        "q_top_pct": 17.67,
+        "a_text": "8.5.3 The probability that tt",
+        "q_text": "8.5.3 A bag has 3 red mari"
+      },
+      {
+        "label": "8.5.5",
+        "a_page": 59,
+        "a_top_pct": 87.909,
+        "q_page": 138,
+        "q_top_pct": 27.287,
+        "a_text": "8.5.5 We can get the second",
+        "q_text": "85.5 Bag Ahas3 white ma"
+      },
+      {
+        "label": "8.5.6",
+        "a_page": 60,
+        "a_top_pct": 20.708,
+        "q_page": 138,
+        "q_top_pct": 35.809,
+        "a_text": "85.6 The probability that",
+        "q_text": "8.5.6 Sheila has been invit"
+      },
+      {
+        "label": "8.17",
+        "a_page": 60,
+        "a_top_pct": 34.469,
+        "q_page": 142,
+        "q_top_pct": 15.715,
+        "a_text": "8.17 There are 4 divisors o",
+        "q_text": "8.17 A fair 6-sided die is ro"
+      },
+      {
+        "label": "8.18",
+        "a_page": 60,
+        "a_top_pct": 37.943,
+        "q_page": 142,
+        "q_top_pct": 19.156,
+        "a_text": "8.18 There are (') ways t",
+        "q_text": "8.18 Ten 6-sided dice are ro"
+      },
+      {
+        "label": "8.22",
+        "a_page": 61,
+        "a_top_pct": 57.849,
+        "q_page": 142,
+        "q_top_pct": 44.332,
+        "a_text": "8.22 We can find the proba",
+        "q_text": "8.22 Three cards are chosen"
+      },
+      {
+        "label": "8.26",
+        "a_page": 62,
+        "a_top_pct": 49.365,
+        "q_page": 142,
+        "q_top_pct": 70.758,
+        "a_text": "8.26 The probability that",
+        "q_text": "8.26 The lottery in our sta"
+      },
+      {
+        "label": "8.27",
+        "a_page": 62,
+        "a_top_pct": 56.446,
+        "q_page": 142,
+        "q_top_pct": 81.001,
+        "a_text": "8.27",
+        "q_text": "8.27 In Monopoly\u00ae, if you"
+      },
+      {
+        "label": "8.3.2",
+        "a_page": 64,
+        "a_top_pct": 28.657,
+        "q_page": 130,
+        "q_top_pct": 60.672,
+        "a_text": "8.32",
+        "q_text": "8.3.2 If we flip 6 coins, whe"
+      }
+    ],
+    "9": [],
+    "10": [
+      {
+        "label": "10.2.1",
+        "a_page": 70,
+        "a_top_pct": 37.275,
+        "q_page": 156,
+        "q_top_pct": 11.884,
+        "a_text": "10.21 Let C be the midy",
+        "q_text": "10.2.1 Let AB be a line seg"
+      },
+      {
+        "label": "10.2.2",
+        "a_page": 70,
+        "a_top_pct": 50.568,
+        "q_page": 156,
+        "q_top_pct": 17.201,
+        "a_text": "10.22 Wehave x <2if",
+        "q_text": "10.2.2 Areal number x is cl"
+      },
+      {
+        "label": "10.2.3",
+        "a_page": 70,
+        "a_top_pct": 59.118,
+        "q_page": 156,
+        "q_top_pct": 19.781,
+        "a_text": "10.2.3 Note that y- Ly] is",
+        "q_text": "10.2.3 A real number y is"
+      },
+      {
+        "label": "10.2.4",
+        "a_page": 70,
+        "a_top_pct": 69.739,
+        "q_page": 156,
+        "q_top_pct": 24.863,
+        "a_text": "10.2.4 Let CD be the lines",
+        "q_text": "10.2.4% Let CD be a line si"
+      },
+      {
+        "label": "10.2.5",
+        "a_page": 70,
+        "a_top_pct": 82.098,
+        "q_page": 156,
+        "q_top_pct": 29.867,
+        "a_text": "10.2.5 The coordinates of",
+        "q_text": "10.2.5% Let P be a point ch"
+      },
+      {
+        "label": "10.3.1",
+        "a_page": 71,
+        "a_top_pct": 15.23,
+        "q_page": 161,
+        "q_top_pct": 70.602,
+        "a_text": "10.3.1 For each of the follow",
+        "q_text": "10.3.1 A point (x, y) is cho:"
+      },
+      {
+        "label": "10.3.3",
+        "a_page": 73,
+        "a_top_pct": 10.888,
+        "q_page": 162,
+        "q_top_pct": 6.88,
+        "a_text": "10.3.3 Let my arrival time be",
+        "q_text": "10.3.3 Repeat Problem 10.6"
+      },
+      {
+        "label": "10.3.4",
+        "a_page": 73,
+        "a_top_pct": 34.803,
+        "q_page": 162,
+        "q_top_pct": 11.728,
+        "a_text": "10.3.4 Let x denote the time",
+        "q_text": "10.3.4 Maryanne\u2019s mail arr"
+      },
+      {
+        "label": "10.9",
+        "a_page": 73,
+        "a_top_pct": 87.508,
+        "q_page": 162,
+        "q_top_pct": 81.47,
+        "a_text": "10.9 The y-coordinate of",
+        "q_text": "10.9 A point R is random;"
+      },
+      {
+        "label": "10.10",
+        "a_page": 74,
+        "a_top_pct": 16.834,
+        "q_page": 162,
+        "q_top_pct": 86.239,
+        "a_text": "10.10 By symmetry, an",
+        "q_text": "10.10 A regular octagon A"
+      },
+      {
+        "label": "10.11",
+        "a_page": 74,
+        "a_top_pct": 21.443,
+        "q_page": 162,
+        "q_top_pct": 91.009,
+        "a_text": "10.11 For each of the fo.",
+        "q_text": "10.11 Two numbers x and 1"
+      },
+      {
+        "label": "10.12",
+        "a_page": 75,
+        "a_top_pct": 10.955,
+        "q_page": 163,
+        "q_top_pct": 19.859,
+        "a_text": "10.12 The points that lie on:",
+        "q_text": "10.12 A point is chosen at r"
+      },
+      {
+        "label": "10.13",
+        "a_page": 75,
+        "a_top_pct": 26.921,
+        "q_page": 163,
+        "q_top_pct": 24.629,
+        "a_text": "10.13 Frankie will take the .",
+        "q_text": "10.13 Frankie rides the sub"
+      },
+      {
+        "label": "10.14",
+        "a_page": 75,
+        "a_top_pct": 39.679,
+        "q_page": 163,
+        "q_top_pct": 35.106,
+        "a_text": "10.14 The product ab is posi",
+        "q_text": "10.14 Given that a and b ar"
+      },
+      {
+        "label": "10.15",
+        "a_page": 75,
+        "a_top_pct": 56.246,
+        "q_page": 163,
+        "q_top_pct": 50.977,
+        "a_text": "10.15 Since x,y,z are randc",
+        "q_text": "10.15 Three points x, y,z ar"
+      },
+      {
+        "label": "10.17",
+        "a_page": 76,
+        "a_top_pct": 12.692,
+        "q_page": 163,
+        "q_top_pct": 60.594,
+        "a_text": "10.17 Since the triangles /",
+        "q_text": "10.17 A point P is randoml"
+      },
+      {
+        "label": "10.20",
+        "a_page": 77,
+        "a_top_pct": 9.953,
+        "q_page": 164,
+        "q_top_pct": 14.23,
+        "a_text": "10.20 Notice that the cond",
+        "q_text": "10.20% What is the probab"
+      },
+      {
+        "label": "10.21",
+        "a_page": 77,
+        "a_top_pct": 40.548,
+        "q_page": 164,
+        "q_top_pct": 20.876,
+        "a_text": "10.21 Note that the triang",
+        "q_text": "10.21% Three points are sel"
+      }
+    ],
+    "11": [
+      {
+        "label": "11.2.2",
+        "a_page": 78,
+        "a_top_pct": 43.019,
+        "q_page": 166,
+        "q_top_pct": 69.351,
+        "a_text": "11.22 The probab",
+        "q_text": "11.2.2 If every outcome of!"
+      },
+      {
+        "label": "11.2.3",
+        "a_page": 78,
+        "a_top_pct": 53.641,
+        "q_page": 166,
+        "q_top_pct": 74.12,
+        "a_text": "11.2.3 The probability tha",
+        "q_text": "11.2.3 Ifan event has only 1"
+      },
+      {
+        "label": "11.3.2",
+        "a_page": 79,
+        "a_top_pct": 29.927,
+        "q_page": 169,
+        "q_top_pct": 17.201,
+        "a_text": "11.3.2 The expected value",
+        "q_text": "11.3.2 A very bizarre"
+      },
+      {
+        "label": "11.3.5",
+        "a_page": 79,
+        "a_top_pct": 67.134,
+        "q_page": 169,
+        "q_top_pct": 35.575,
+        "a_text": "11.3.5 There are 5 white ba",
+        "q_text": "11.3.5 Abin has 5 white ba"
+      },
+      {
+        "label": "11.3.6",
+        "a_page": 79,
+        "a_top_pct": 80.494,
+        "q_page": 169,
+        "q_top_pct": 42.22,
+        "a_text": "11.3.6 Let x be the probab",
+        "q_text": "11.3.6% A 6-sided die is w"
+      },
+      {
+        "label": "11.8",
+        "a_page": 80,
+        "a_top_pct": 66.533,
+        "q_page": 172,
+        "q_top_pct": 45.192,
+        "a_text": "11.8",
+        "q_text": "11.8 Two fair eight-sided d"
+      },
+      {
+        "label": "11.9",
+        "a_page": 80,
+        "a_top_pct": 76.62,
+        "q_page": 172,
+        "q_top_pct": 53.479,
+        "a_text": "11.9 Since Bin A has one",
+        "q_text": "11.9 BinAhasone white ba"
+      },
+      {
+        "label": "11.13",
+        "a_page": 81,
+        "a_top_pct": 71.543,
+        "q_page": 172,
+        "q_top_pct": 90.149,
+        "a_text": "11.13 Suppose that an eve",
+        "q_text": "11.13 Show that if all of the"
+      },
+      {
+        "label": "11.16",
+        "a_page": 83,
+        "a_top_pct": 32.064,
+        "q_page": 173,
+        "q_top_pct": 47.85,
+        "a_text": "11.16 The area of any suct",
+        "q_text": "11.16 Two (possibly equal)"
+      },
+      {
+        "label": "11.17",
+        "a_page": 83,
+        "a_top_pct": 53.173,
+        "q_page": 173,
+        "q_top_pct": 52.619,
+        "a_text": "11.17 The best strategy is",
+        "q_text": "11.17% Abin has 2 white bz"
+      },
+      {
+        "label": "11.18",
+        "a_page": 83,
+        "a_top_pct": 82.031,
+        "q_page": 173,
+        "q_top_pct": 62.783,
+        "a_text": "11.18 The probability that",
+        "q_text": "11.18% A coin is weighted :"
+      },
+      {
+        "label": "11.20",
+        "a_page": 84,
+        "a_top_pct": 59.586,
+        "q_page": 173,
+        "q_top_pct": 78.342,
+        "a_text": "11.20 Let the probability",
+        "q_text": "11.20% Caitlin and Olivia |"
+      }
+    ],
+    "12": [
+      {
+        "label": "12.12",
+        "a_page": 88,
+        "a_top_pct": 83.1,
+        "q_page": 188,
+        "q_top_pct": 6.88,
+        "a_text": "12.12",
+        "q_text": "12.12 Prove the identity"
+      },
+      {
+        "label": "12.13",
+        "a_page": 89,
+        "a_top_pct": 19.773,
+        "q_page": 188,
+        "q_top_pct": 18.686,
+        "a_text": "12.13",
+        "q_text": "12.13 Explain why () is"
+      },
+      {
+        "label": "12.14",
+        "a_page": 89,
+        "a_top_pct": 45.357,
+        "q_page": 188,
+        "q_top_pct": 31.509,
+        "a_text": "12.14",
+        "q_text": "12.14 Prove that"
+      },
+      {
+        "label": "12.15",
+        "a_page": 89,
+        "a_top_pct": 70.741,
+        "q_page": 188,
+        "q_top_pct": 43.002,
+        "a_text": "12.15",
+        "q_text": "12.15 Determine if each of"
+      },
+      {
+        "label": "12.16",
+        "a_page": 90,
+        "a_top_pct": 34.068,
+        "q_page": 188,
+        "q_top_pct": 73.651,
+        "a_text": "12.16",
+        "q_text": "12.16"
+      },
+      {
+        "label": "12.17",
+        "a_page": 90,
+        "a_top_pct": 77.021,
+        "q_page": 188,
+        "q_top_pct": 83.894,
+        "a_text": "12.17 We can rewrite the",
+        "q_text": "12.17 Prove that"
+      },
+      {
+        "label": "12.18",
+        "a_page": 91,
+        "a_top_pct": 15.097,
+        "q_page": 189,
+        "q_top_pct": 6.724,
+        "a_text": "12.18 Consider the ratio c",
+        "q_text": "12.18% Find the smallest v"
+      },
+      {
+        "label": "12.20",
+        "a_page": 91,
+        "a_top_pct": 76.687,
+        "q_page": 189,
+        "q_top_pct": 54.887,
+        "a_text": "12.20 The Fibonacci numt",
+        "q_text": "12.20% The Fibonacci num"
+      }
+    ],
+    "13": [
+      {
+        "label": "13.3.1",
+        "a_page": 93,
+        "a_top_pct": 35.605,
+        "q_page": 197,
+        "q_top_pct": 90.539,
+        "a_text": "13.3.1 The number of wa",
+        "q_text": "13.3.1 In how many ways"
+      },
+      {
+        "label": "13.4.1",
+        "a_page": 93,
+        "a_top_pct": 64.796,
+        "q_page": 199,
+        "q_top_pct": 55.981,
+        "a_text": "13.4.1 The number of way",
+        "q_text": "13.4.1 In how many ways c"
+      },
+      {
+        "label": "13.4.2",
+        "a_page": 93,
+        "a_top_pct": 72.211,
+        "q_page": 199,
+        "q_top_pct": 58.874,
+        "a_text": "13.4.2 We first give 2 piece",
+        "q_text": "13.4.2 In how many ways c"
+      },
+      {
+        "label": "13.4.3",
+        "a_page": 93,
+        "a_top_pct": 79.893,
+        "q_page": 199,
+        "q_top_pct": 63.643,
+        "a_text": "13.4.3 If the twins each ge",
+        "q_text": "13.4.3% In how many ways"
+      },
+      {
+        "label": "13.5.1",
+        "a_page": 94,
+        "a_top_pct": 15.564,
+        "q_page": 204,
+        "q_top_pct": 69.664,
+        "a_text": "13.5.1",
+        "q_text": "13.5.1 Use the Hockey Stich"
+      },
+      {
+        "label": "13.5.2",
+        "a_page": 94,
+        "a_top_pct": 48.564,
+        "q_page": 204,
+        "q_top_pct": 86.161,
+        "a_text": "13.5.2",
+        "q_text": "13.5.2 Prove the Hockey St"
+      },
+      {
+        "label": "13.4",
+        "a_page": 94,
+        "a_top_pct": 79.092,
+        "q_page": 198,
+        "q_top_pct": 19.234,
+        "a_text": "13.4",
+        "q_text": "13.4 A Clever Soluti"
+      },
+      {
+        "label": "13.6",
+        "a_page": 95,
+        "a_top_pct": 56.446,
+        "q_page": 206,
+        "q_top_pct": 32.838,
+        "a_text": "13.6 First, give 2 of each k",
+        "q_text": "13.6 In how many ways ca"
+      },
+      {
+        "label": "13.7",
+        "a_page": 95,
+        "a_top_pct": 66.934,
+        "q_page": 206,
+        "q_top_pct": 37.608,
+        "a_text": "13.7",
+        "q_text": "13.7 3 students are runnin,"
+      }
+    ],
+    "14": [
+      {
+        "label": "14.4.3",
+        "a_page": 98,
+        "a_top_pct": 58.45,
+        "q_page": 214,
+        "q_top_pct": 48.163,
+        "a_text": "14.43",
+        "q_text": "14.4.3 Expand (? - 1)."
+      },
+      {
+        "label": "14.4.6",
+        "a_page": 99,
+        "a_top_pct": 21.109,
+        "q_page": 214,
+        "q_top_pct": 57.076,
+        "a_text": "14.4.6 All of the terms are",
+        "q_text": "14.4.6 Find the constant ter"
+      },
+      {
+        "label": "14.4.7",
+        "a_page": 99,
+        "a_top_pct": 34.87,
+        "q_page": 214,
+        "q_top_pct": 68.335,
+        "a_text": "14.47 We use the Binomiz",
+        "q_text": "14.4.7 Use the Binomial Tt"
+      },
+      {
+        "label": "14.5.2",
+        "a_page": 99,
+        "a_top_pct": 72.812,
+        "q_page": 215,
+        "q_top_pct": 72.635,
+        "a_text": "14.5.2 Apply the Binomia!",
+        "q_text": "14.5.2 Find a formula for ("
+      },
+      {
+        "label": "14.5.3",
+        "a_page": 100,
+        "a_top_pct": 12.091,
+        "q_page": 215,
+        "q_top_pct": 78.655,
+        "a_text": "1453 Apply the Binomial \u2019",
+        "q_text": "14.5.3 Find a formula for 5\u2019"
+      },
+      {
+        "label": "14.10",
+        "a_page": 102,
+        "a_top_pct": 51.436,
+        "q_page": 216,
+        "q_top_pct": 83.894,
+        "a_text": "14.10",
+        "q_text": "14.10 Write (3 ~ 2 V5)? in tt"
+      },
+      {
+        "label": "14.11",
+        "a_page": 102,
+        "a_top_pct": 65.932,
+        "q_page": 216,
+        "q_top_pct": 87.099,
+        "a_text": "14.11 Let",
+        "q_text": "14.11 Compute"
+      },
+      {
+        "label": "14.12",
+        "a_page": 102,
+        "a_top_pct": 84.168,
+        "q_page": 217,
+        "q_top_pct": 6.802,
+        "a_text": "14.12 Consider the expar",
+        "q_text": "14.12 Find the sum of the c"
+      }
+    ],
+    "15": [
+      {
+        "label": "15.7",
+        "a_page": 105,
+        "a_top_pct": 37.475,
+        "q_page": 227,
+        "q_top_pct": 74.902,
+        "a_text": "15.7 Let the two teams be .",
+        "q_text": "15.7 Each of 2 teams has 11"
+      },
+      {
+        "label": "15.9",
+        "a_page": 105,
+        "a_top_pct": 77.555,
+        "q_page": 227,
+        "q_top_pct": 90.227,
+        "a_text": "15.9 We will calculate the",
+        "q_text": "15.9 A 7-digit number is cl"
+      },
+      {
+        "label": "15.10",
+        "a_page": 106,
+        "a_top_pct": 12.625,
+        "q_page": 228,
+        "q_top_pct": 6.646,
+        "a_text": "15.10",
+        "q_text": "15.10 A ternary sequence isa"
+      },
+      {
+        "label": "15.12",
+        "a_page": 106,
+        "a_top_pct": 43.353,
+        "q_page": 228,
+        "q_top_pct": 26.896,
+        "a_text": "15.12 Any 2 of the six po",
+        "q_text": "15.12 Six points ona circle"
+      },
+      {
+        "label": "15.13",
+        "a_page": 106,
+        "a_top_pct": 51.436,
+        "q_page": 228,
+        "q_top_pct": 33.62,
+        "a_text": "15.13 We will look at the",
+        "q_text": "15.13 The integers 1,2,3,4,5"
+      },
+      {
+        "label": "15.14",
+        "a_page": 106,
+        "a_top_pct": 62.391,
+        "q_page": 228,
+        "q_top_pct": 44.801,
+        "a_text": "15.14 The rectangle\u2019s firs",
+        "q_text": "15.14 We are given a table"
+      },
+      {
+        "label": "15.15",
+        "a_page": 106,
+        "a_top_pct": 68.604,
+        "q_page": 228,
+        "q_top_pct": 51.759,
+        "a_text": "15.15 Let the 9-gon be AB",
+        "q_text": "15.15 A regular 9-sided po"
+      },
+      {
+        "label": "15.18",
+        "a_page": 107,
+        "a_top_pct": 61.456,
+        "q_page": 228,
+        "q_top_pct": 78.499,
+        "a_text": "15.18",
+        "q_text": "15.18 Rose writes ail the 7-"
+      },
+      {
+        "label": "15.19",
+        "a_page": 108,
+        "a_top_pct": 43.153,
+        "q_page": 229,
+        "q_top_pct": 6.88,
+        "a_text": "15.19 We will find the f",
+        "q_text": "15.19 Ihave a bag with 5 qu"
+      },
+      {
+        "label": "15.2.1",
+        "a_page": 108,
+        "a_top_pct": 71.343,
+        "q_page": 229,
+        "q_top_pct": 16.419,
+        "a_text": "15.21 There are 6\u00b0 = 216",
+        "q_text": "15.21 Three fair 6-sided dic"
+      },
+      {
+        "label": "15.2.4",
+        "a_page": 109,
+        "a_top_pct": 78.49,
+        "q_page": 229,
+        "q_top_pct": 78.421,
+        "a_text": "1524 The terms in the t",
+        "q_text": "15.24 Describe the positive"
+      },
+      {
+        "label": "15.2.5",
+        "a_page": 110,
+        "a_top_pct": 16.633,
+        "q_page": 229,
+        "q_top_pct": 91.556,
+        "a_text": "15.25 We divide the pro!",
+        "q_text": "15.25 My basketball team t"
+      },
+      {
+        "label": "15.2.7",
+        "a_page": 110,
+        "a_top_pct": 83.434,
+        "q_page": 230,
+        "q_top_pct": 19.937,
+        "a_text": "15.27 Note that of the 2",
+        "q_text": "15.27, A3x3x3 woodenc"
+      }
+    ]
+  },
+  "q_labels_count": 472,
+  "matched_total": 253
+}
